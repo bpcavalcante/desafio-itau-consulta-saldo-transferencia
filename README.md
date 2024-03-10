@@ -1,5 +1,5 @@
 # 1 - Desafio Engenharia de Software
-### Desenvolva uma API REST com os seguintes requisitos:
+### Criar uma API Rest que os clientes consigam realizar as operações de consulta de saldo e transferência entre contas com os seguintes requisitos :
 #### - Buscar o nome do cliente na API de Cadastro (Mock)
 #### - Validar se a conta corrente esta ativa , validar se o cliente tem limite disponível na conta corrente para realizar a transferência
 #### - Validar se a transferência excedeu o limite diario de 1.000 reais
